@@ -1,5 +1,5 @@
 {
-  "name": "particle-astar-demo",
+  "name": "particle-okbc-demo",
   "version": "1.0.0",
   "type": "module",
   "description": "Demo application for leveraging OKBC within Particle's Smart Wallet-as-a-Service",
